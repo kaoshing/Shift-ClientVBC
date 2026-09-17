@@ -31,7 +31,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Lumina v4"
+rootProject.name = "Shift Client"
 include(":app",
     ":Protocol:bedrock-codec",
     ":Protocol:bedrock-connection",
